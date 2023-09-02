@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing data-driven machine learning probes in quantum computing
 - 🌱 I’m currently learning Machine Learning and mathematics of quantum mechanics
 - :computer: I’m looking to collaborate on Machine learning Projects
-- 📫 How to reach me dm.rayanjoseph@gmail.com
+- 📫 reach me dm.rayanjoseph@gmail.com
 - :video_game: is my Catch a flick
 
 <!---
